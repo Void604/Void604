@@ -67,6 +67,13 @@ Various other projects that I have developed including single page HTML and CSS 
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Void604&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Void604&layout=compact&theme=radical)
+
+---
+
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/aryan-kashyap-31707b29b/)
