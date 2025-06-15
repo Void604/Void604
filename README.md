@@ -45,12 +45,11 @@ I have a solid foundation in IT and am always seeking opportunities to expand my
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-- Google Workspace
 
 **Other:**  
 - IoT
 - Sketching
-- Video Editing
+- Video/Photo Editing
 - WordPress
 
 ---
