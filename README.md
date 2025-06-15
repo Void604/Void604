@@ -64,7 +64,7 @@ A web-based Hangman game built with modern JavaScript and React — test your vo
 Designed and developed an app to track and report crime incidents for better community safety.
 
 ### Other projects:
-Various other projects that I have developed including single page HTML and CSS pages, a 3D solar system, and many more to come in the future.
+Various other projects that I have developed including single page HTML and CSS pages, a 3D solar system,A secure user login and signup page for patient and doctors, and many more to come in the future.
 
 ---
 
