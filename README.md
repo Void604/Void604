@@ -78,7 +78,7 @@ Various other projects that I have developed including single page HTML and CSS 
 
 - [LinkedIn](https://www.linkedin.com/in/aryan-kashyap-31707b29b/)
 - [LeetCode](https://leetcode.com/u/void604/)
-
+- [Email](aryankashyap7899@gmail.com)
 ---
 
 ## ⚡ Fun Fact
