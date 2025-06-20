@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Aryan Kashyap (Void604)!
+# 👋 Hey there! I'm Aryan Kashyap (a.k.a. Void604)
 
 ![Profile Banner](https://img.shields.io/badge/%F0%9F%94%A5%20Always%20Curious,%20Always%20Learning-%230072ff?style=for-the-badge&logo=github)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan%20Kashyap-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aryan-kashyap-31707b29b/)
@@ -7,116 +7,99 @@
 ---
 
 ## 👨‍💻 About Me
-Hi, I am Aryan Kashyap — a highly motivated BCA student and aspiring developer!  
-I have a solid foundation in IT and am always seeking opportunities to expand my technical skillset by tackling practical challenges.
 
-- 🧑‍🎓 **Student** at Amity University currently studying BCA
-- 💡 **Always Curious, Always Learning**
-- 🚀 Experience in hackathons, App development and Web Development
-- 🏋️‍♂️ Fitness freak — I go to the gym regularly!
+Hi, I'm **Aryan**, a passionate BCA student from Amity University, blending logic, creativity, and relentless curiosity. Whether it's debugging a Gradle build or nailing a clean UI, I'm all about building things that solve problems and look good doing it.
+
+- 🎓 **Student Developer** at Amity University, Noida  
+- 💭 _“Always Curious, Always Learning”_  
+- 💻 Real-world exposure via hackathons, app dev, and full-stack web projects  
+- 💪 Gym-goer by dawn, coder by day
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🧠 Skills & Technologies
 
-**Languages:**  
+### 💬 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-- VSCode
 
-**Web Development:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-squareColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-**Frontend & Backend Web Development**
+_Proficient in both frontend and backend stacks_
 
-**App Development:**  
-- Android Studio
-- SQLite
-- Visual Studio Code
+### 📱 App Development
+- Android Studio  
+- SQLite  
+- VS Code
 
-**Tools & Platforms:**  
+### 🛠️ Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 
-**Other:**  
-- IoT
-- Sketching
-- Video/Photo Editing
-- WordPress
+### 🎨 Other Interests
+- IoT tinkering  
+- Sketching  
+- Video/photo editing  
+- WordPress design
 
 ---
 
-## 🌟 Projects
+## 🚀 Projects
 
 ### 🎮 Hangman Game
-A web-based Hangman game built with modern JavaScript and React — test your vocabulary and have fun!
+Modern Hangman game built in React + JavaScript to test your word skills in a sleek UI.
 
 ### 📱 Android Crime Monitoring App
-Designed and developed an app to track and report crime incidents for better community safety.
+Android application to report and track crime patterns—built for smarter, safer communities.
 
-### Other projects:
-Various other projects that I have developed including single page HTML and CSS pages, a 3D solar system,A secure user login and signup page for patient and doctors, and many more to come in the future.
-
----
-## ⚡ GitHub Stats
-
-<div align="center">
-
-<!-- Profile Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Void604&show_icons=true&theme=radical&hide_title=true&rank_icon=github" alt="Void604's GitHub Stats" height="160"/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Void604&layout=compact&theme=radical&hide_title=true" alt="Top Languages" height="160"/>
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Void604&theme=radical&hide_title=true" alt="Contribution Graph"/>
-
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Void604&theme=radical&hide_title=true" alt="GitHub Streak"/>
-
-</div>
-
-🧠 *These stats represent more than numbers—they're proof of consistent learning, building, and evolving as a developer. Dive in to explore my projects, and let’s create something amazing together!*
+### 🧰 Other Cool Builds
+- Single-page websites (HTML/CSS)  
+- 3D solar system simulation  
+- Authenticated login/signup portal for doctors and patients  
+_...and the list keeps growing._
 
 ---
 
-## 🚀 GitHub Highlights
+## 📊 GitHub Highlights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Void604&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_rank=false" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Void604&show_icons=true&theme=radical&hide_title=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Void604&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Void604&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Void604&theme=radical&hide_title=true" alt="GitHub Streak" />
   <img width="48%" src="https://github-profile-trophy.vercel.app/?username=Void604&theme=radical&margin-w=15&no-frame=true&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </p>
 
-🛠️ **From debugging Android builds to designing clean UIs**,  
-this dashboard mirrors the consistency, curiosity, and creative grind that powers my code.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Void604&theme=radical&hide_title=true" alt="Contribution Graph"/>
+</p>
 
-✨ _Want a peek behind the scenes?_  
-Browse the pinned projects, or connect if you're vibing with anything cool here!
+🧠 *This wall of stats doesn’t just show contribution counts—it maps a mindset: build consistently, build better.*
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/aryan-kashyap-31707b29b/)
-- [LeetCode](https://leetcode.com/u/void604/)
+- [LinkedIn → aryan-kashyap-31707b29b](https://www.linkedin.com/in/aryan-kashyap-31707b29b/)
+- [LeetCode → @void604](https://leetcode.com/u/void604/)
+
+---
 
 ## ⚡ Fun Fact
 
-When I'm not coding, you'll likely find me at the gym! I believe a healthy body fuels a sharp mind.
+When I’m not analyzing code logic or optimizing UI flows, you’ll find me at the gym. Because **mental resilience starts with physical discipline**.
 
 ---
 
-> “Structured like Code, Commited to Growth, Future DEV”
+> 🚀 _“Structured like Code, Committed to Growth, Future DEV”_
