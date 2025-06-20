@@ -69,23 +69,25 @@ _...and the list keeps growing._
 
 ---
 
-## 📊 GitHub Highlights
+⚡ GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Void604&show_icons=true&theme=radical&hide_title=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Void604&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Void604&theme=radical&hide_title=true" alt="GitHub Streak" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=Void604&theme=radical&margin-w=15&no-frame=true&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</p>
+<!-- Profile Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Void604&showicons=true&theme=radical&hidetitle=true&rank_icon=github" alt="Void604's GitHub Stats" height="160"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Void604&theme=radical&hide_title=true" alt="Contribution Graph"/>
-</p>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Void604&layout=compact&theme=radical&hide_title=true" alt="Top Languages" height="160"/>
 
-🧠 *This wall of stats doesn’t just show contribution counts—it maps a mindset: build consistently, build better.*
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Void604&theme=radical&hide_title=true" alt="Contribution Graph"/>
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Void604&theme=radical&hide_title=true" alt="GitHub Streak"/>
+
+</div>
+
+🧠 These stats represent more than numbers—they're proof of consistent learning, building, and evolving as a developer. Dive in to explore my projects, and let’s create something amazing together!
 
 ---
 
