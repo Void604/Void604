@@ -66,14 +66,7 @@ Designed and developed an app to track and report crime incidents for better com
 Various other projects that I have developed including single page HTML and CSS pages, a 3D solar system,A secure user login and signup page for patient and doctors, and many more to come in the future.
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Void604&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Void604&layout=compact&theme=radical)
-
----
-## ⚡ GitHub Power Stats
+## ⚡ GitHub Stats
 
 <div align="center">
 
