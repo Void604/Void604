@@ -73,6 +73,27 @@ Various other projects that I have developed including single page HTML and CSS 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Void604&layout=compact&theme=radical)
 
 ---
+## ⚡ GitHub Power Stats
+
+<div align="center">
+
+<!-- Profile Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Void604&show_icons=true&theme=radical&hide_title=true&rank_icon=github" alt="Void604's GitHub Stats" height="160"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Void604&layout=compact&theme=radical&hide_title=true" alt="Top Languages" height="160"/>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Void604&theme=radical&hide_title=true" alt="Contribution Graph"/>
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Void604&theme=radical&hide_title=true" alt="GitHub Streak"/>
+
+</div>
+
+🧠 *These stats represent more than numbers—they're proof of consistent learning, building, and evolving as a developer. Dive in to explore my projects, and let’s create something amazing together!*
+
+---
 
 ## 📫 Connect with Me
 
