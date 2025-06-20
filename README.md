@@ -88,6 +88,26 @@ Various other projects that I have developed including single page HTML and CSS 
 
 ---
 
+## 🚀 GitHub Highlights
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Void604&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_rank=false" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Void604&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Void604&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=Void604&theme=radical&margin-w=15&no-frame=true&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+</p>
+
+🛠️ **From debugging Android builds to designing clean UIs**,  
+this dashboard mirrors the consistency, curiosity, and creative grind that powers my code.
+
+✨ _Want a peek behind the scenes?_  
+Browse the pinned projects, or connect if you're vibing with anything cool here!
+
+---
+
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/aryan-kashyap-31707b29b/)
