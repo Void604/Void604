@@ -93,8 +93,8 @@ _...and the list keeps growing._
 
 ## 📫 Let's Connect
 
-- [LinkedIn → aryan-kashyap-31707b29b](https://www.linkedin.com/in/aryan-kashyap-31707b29b/)
-- [LeetCode → @void604](https://leetcode.com/u/void604/)
+- [LinkedIn](https://www.linkedin.com/in/aryan-kashyap-31707b29b/)
+- [LeetCode](https://leetcode.com/u/void604/)
 
 ---
 
