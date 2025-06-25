@@ -69,27 +69,27 @@ _...and the list keeps growing._
 
 ---
 
-⚡ GitHub Stats
+## ⚡ GitHub Stats
 
 <div align="center">
 
 <!-- Profile Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Void604&showicons=true&theme=radical&hidetitle=true&rank_icon=github" alt="Void604's GitHub Stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Void604&show_icons=true&theme=radical&hide_title=true&rank_icon=github" alt="Void604's GitHub Stats" height="160"/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Void604&layout=compact&theme=radical&hide_title=true" alt="Top Languages" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Void604&layout=compact&theme=radical&hide_title=true" alt="Top Languages Used" height="160"/>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Void604&theme=radical&hide_title=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Void604&theme=radical&hide_title=true" alt="Contribution Activity"/>
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Void604&theme=radical&hide_title=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Void604&theme=radical&hide_title=true" alt="GitHub Streak Stats"/>
 
 </div>
 
-🧠 These stats represent more than numbers—they're proof of consistent learning, building, and evolving as a developer. Dive in to explore my projects, and let’s create something amazing together!
-
----
+> 🧠 *Beyond the numbers lies a journey—of learning, consistency, and creative problem-solving.*  
+> Dive into my repositories to see how I build, break, and evolve.  
+> Let's connect, collaborate, and create something truly impactful.
 
 ## 📫 Let's Connect
 
