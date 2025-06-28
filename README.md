@@ -61,6 +61,9 @@ Modern Hangman game built in React + JavaScript to test your word skills in a sl
 ### 📱 Android Crime Monitoring App
 Android application to report and track crime patterns—built for smarter, safer communities.
 
+### EraExplorer
+EraExplorer is an AI-powered platform that transforms any historical search into a comprehensive, interactive learning adventure. Forget outdated textbooks and limited content – we're talking about real-time AI content generation, pulling directly from millions of Wikipedia articles to give you instant timelines, quizzes, learning objectives, and more, for ANY topic you can imagine.
+
 ### 🧰 Other Cool Builds
 - Single-page websites (HTML/CSS)  
 - 3D solar system simulation  
